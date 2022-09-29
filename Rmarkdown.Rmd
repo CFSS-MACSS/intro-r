@@ -4,7 +4,8 @@ output: html_document
 date: "`r format(Sys.time(), '%d %B %Y')`"
 ---
 
-# R Markdown (`.Rmd`)
+
+# R Markdown (`.Rmd` or `.rmd`)
 
 An R Markdown file is a plain text file that uses the extension .Rmd. 
 
@@ -81,6 +82,12 @@ R Markdown allows you to directly insert and evaluate code via "code chunks". To
 
 ```{r echo = FALSE}
 print("Hello, World!")
+```
+
+```{r echo = TRUE}
+# add a comment
+x <- 2 + 3
+x * 2 
 ```
 
 Note `echo = FALSE` hides your code syntax but still shows the output of your code in the finished file. Use this for writing reports for people who don’t want to see the underlying R code.
