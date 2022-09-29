@@ -12,7 +12,7 @@ An R Markdown file is a plain text file that uses the extension .Rmd.
 It contains three major components:
 
 * A YAML header surrounded by `---`
-* Chunks of R code surrounded by triple-backticks ```
+* Chunks of R code surrounded by triple-backticks (see below)
 * Text and text formatting using the Markdown syntax
   
 R Markdown files allow the generation of well-formatted documents (md, HTML, PDF, etc.) that include text, code, and output.
