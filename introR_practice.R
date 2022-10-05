@@ -1,7 +1,3 @@
-# 9/29/2022 INTRO TO BASIC R
-# PRACTICE 
-
-
 # generate a variable, display it, and check its type
 
 

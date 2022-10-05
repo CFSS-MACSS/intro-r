@@ -1,7 +1,3 @@
-# 9/29/2022 INTRO TO BASIC R
-# PRACTICE - SOLUTIONS
-
-
 # generate a variable, display it, and check its type
 var <- 100.1
 var
