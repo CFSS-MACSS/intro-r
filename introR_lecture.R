@@ -1,5 +1,4 @@
-# 9/29/2022 INTRO TO BASIC R
-# LECTURE 
+# intro to basic R notes
 
 # whatever is typed after the # sign is a comment
 # to execute code: ctrl + enter OR highlight it and press "Run"
