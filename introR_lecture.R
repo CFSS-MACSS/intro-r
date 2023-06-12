@@ -3,6 +3,7 @@
 # whatever is typed after the # sign is a comment
 # to execute code: ctrl + enter OR highlight it and press "Run"
 
+##### Helpful info
 # DATA TYPES
 # Double        1.2, 3.5, 0, -1 (default datatype for numbers)
 # Integer       1, 2, 3, 4      
@@ -11,7 +12,8 @@
 # Complex       1 + 2i          (numbers with an imaginary component)
 # Raw           "hi", 1 2.5     (mix of types)
 
-# DATA STRUCTURES
+
+## DATA STRUCTURES
 # Vectors       1d, same data type
 # Matrices      2d, same data type
 # Lists         1d, different data types
